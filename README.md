@@ -60,14 +60,14 @@ Everything below is a prioritized outline and you should work from the top to th
 Blockchain technology is a multi-disciplinary field built atop cryptography, economics, and computer science. The background section includes some requisite fundamentals in these fields that will ensure you have solid footing before diving deeper into the blockchain specifics since many of the features that exist today are results of years and years of previous research.
 
 ## Data Structures
-- [ ] [Linked Lists](https://en.wikipedia.org/wiki/Linked_list)
-- [ ] [Binary Search Trees](https://en.wikipedia.org/wiki/Binary_search_tree)
-- [ ] [Hash Maps](https://en.wikipedia.org/wiki/Hash_table)
-- [ ] [Graphs](https://en.wikipedia.org/wiki/Graph_%28discrete_mathematics%29)
-- [ ] [Directed Acyclic Graphs](https://en.wikipedia.org/wiki/Directed_acyclic_graph)
+- [x] [Linked Lists](https://en.wikipedia.org/wiki/Linked_list)
+- [x] [Binary Search Trees](https://en.wikipedia.org/wiki/Binary_search_tree)
+- [x] [Hash Maps](https://en.wikipedia.org/wiki/Hash_table)
+- [x] [Graphs](https://en.wikipedia.org/wiki/Graph_%28discrete_mathematics%29)
+- [x] [Directed Acyclic Graphs](https://en.wikipedia.org/wiki/Directed_acyclic_graph)
 
 ## Cryptography
-- [ ] [Public/Private Key Cryptography](https://en.wikipedia.org/wiki/Public-key_cryptography)
+- [x] [Public/Private Key Cryptography](https://en.wikipedia.org/wiki/Public-key_cryptography)
 - [ ] [RSA](https://www.youtube.com/watch?v=vgTtHV04xRI)
 - [ ] [ECDSA](https://en.wikipedia.org/wiki/Elliptic_Curve_Digital_Signature_Algorithm)
 - [ ] [Cryptographic Hash Function](https://en.wikipedia.org/wiki/Cryptographic_hash_function)
